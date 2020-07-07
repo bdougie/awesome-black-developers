@@ -13,4 +13,4 @@ Additional suggestions are welcomed! Check out [CONTRIBUTING.md](CONTRIBUTING.md
 ## License and attribution
 This list is available under the Creative Commons CC0 1.0 License, meaning you are free to use it for any purpose, commercial or non-commercial, without any attribution back to me (public domain). (If you ever want to reference me, find me here! [@bdougieYO](http://twitter.com/bdougieYO) But you are in no way required to do so.)
 
-This repo was inspired by [nayafia/awesome-maintainers](https://github.com/nayafia/awesome-maintainers)
+This repo was cloned from [nayafia/awesome-maintainers](https://github.com/nayafia/awesome-maintainers)
