@@ -25,10 +25,10 @@
 
 ### [@kjaymiller](https://github.com/kjaymiller)
   * Productivity in Tech ([project](https://productivityintech.com/))
-  * "PIT Reflection: Github Sponsors, Talking to Mentors, and Writing Docs"([podcast](https://productivityintech.transistor.fm/s2020/10))
+  * "PIT Reflection: GitHub Sponsors, Talking to Mentors, and Writing Docs"([podcast](https://productivityintech.transistor.fm/s2020/10))
   
 ### [@m0nica](https://github.com/m0nica)
-  * ReactLadies [community](https://www.reactladies.com/)
+  * ReactLadies ([community](https://www.reactladies.com/))
   
 ### [@Prophen](https://github.com/Prophen)
   * PopSchools ([project](https://github.com/PopSchools))
