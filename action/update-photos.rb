@@ -1,11 +1,4 @@
 #!/usr/bin/env ruby
-#/ Usage: ./script/update-readme [--verbose] [--save] [--persist-api-responses] github_api_token team_api_token
-#/ Update the local README file to reflect the current members of @github/blacktocats.
-
-require "httparty"
-require "json"
-
-#!/usr/bin/env ruby
 #/ Usage: ./action/update-photos 
 #/ Update the local README photo wall to reflect the current developers listed in
 # bdougie/awesome-black-developers.
