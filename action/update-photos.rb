@@ -20,6 +20,7 @@ developers = %w(
   dayhaysoos
   ifiokjr
   kjaymiller
+  lynncyrin
   m0nica
   Prophen
 )
