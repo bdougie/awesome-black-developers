@@ -11,26 +11,26 @@
 <!-- ####################################### -->
 <!-- DO NOT EDIT ABOVE -- AUTOMATION WARNING -->
 
-### [@aprilspeight](/aprilspeight)
+### [@aprilspeight](https://github.com/aprilspeight)
   * Vogue and Code ([project](https://www.vogueandcode.com/))
   * My Career Transition Story ([video](https://www.youtube.com/watch?v=kHrm-O3Z4dA&feature=emb_title))
 
-### [@bdougie](/bdougie)
+### [@bdougie](https://github.com/bdougie)
  * Open Sauced ([project](https://github.com/open-sauced/open-sauced))
  * "Your next open source contribution" ([video](https://www.youtube.com/watch?v=UzI2Wdl3arE))
   
-### [@dayhaysoos](/dayhaysoos)
+### [@dayhaysoos](https://github.com/dayhaysoos)
   * use-shopping-cart ([project](https://github.com/dayhaysoos/use-shopping-cart))
   * "How to ask for help without feeling like a burden." ([blog](https://dayhaysoos.com/how-to-ask-for-help/))
 
-### [@kjaymiller](/kjaymiller)
+### [@kjaymiller](https://github.com/kjaymiller)
   * Productivity in Tech ([project](https://productivityintech.com/))
   * "PIT Reflection: Github Sponsors, Talking to Mentors, and Writing Docs"([podcast](https://productivityintech.transistor.fm/s2020/10))
   
-### [@m0nica](/m0nica)
+### [@m0nica](https://github.com/m0nica)
   * ReactLadies [community](https://www.reactladies.com/)
   
-### [@Prophen](/Prophen)
+### [@Prophen](https://github.com/Prophen)
   * PopSchools ([project](https://github.com/PopSchools))
 
 ## 💅🏾 Contributing
