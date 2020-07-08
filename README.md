@@ -1,9 +1,15 @@
 # Awesome Black Developers [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 > Talks, blog posts, and interviews amplifying the voices of Black developers on GitHub because #BlackLivesMatter
 
+<!-- AUTOMATION WARNING -- DO NOT EDIT BELOW -->
+<!-- ####################################### -->
+
 [@aprilspeight](#aprilspeight) | [@bdougie](#bdougie) | [@dayhaysoos](#dayhaysoos) | [@ifiokjr](/ifiokjr) | [@kjaymiller](#kjaymiller) | [@m0nica](#m0nica) | [@Prophen](#Prophen) 
 --- | --- | --- | --- | --- | --- | ---
 ![@aprilspeight](https://avatars.githubusercontent.com/aprilspeight?s=100&v=2) |![@bdougie](https://avatars.githubusercontent.com/bdougie?s=100&v=2) |![@dayhaysoos](https://avatars.githubusercontent.com/dayhaysoos?s=100&v=1) | ![@ifiokjr](https://avatars.githubusercontent.com/ifiokjr?s=100&v=2) |![@kjaymiller](https://avatars.githubusercontent.com/kjaymiller?s=100&v=1) | ![@m0nica](https://avatars.githubusercontent.com/m0nica?s=100&v=1) |![@Prophen](https://avatars.githubusercontent.com/Prophen?s=100&v=1) |
+
+<!-- ####################################### -->
+<!-- DO NOT EDIT ABOVE -- AUTOMATION WARNING -->
 
 ### [@aprilspeight](/aprilspeight)
   * Vogue and Code ([project](https://www.vogueandcode.com/))
