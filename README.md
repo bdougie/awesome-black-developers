@@ -25,7 +25,7 @@
   
 ### [@ifiokjr](https://github.com/ifiokjr)
   * remirror ([project](https://github.com/remirror/remirror))
-  * GitHub Sponsor page ([sponsor]](https://github.com/sponsors/ifiokjr))
+  * GitHub Sponsor page ([sponsor](https://github.com/sponsors/ifiokjr))
   
 ### [@kjaymiller](https://github.com/kjaymiller)
   * Productivity in Tech ([project](https://productivityintech.com/))
