@@ -9,5 +9,5 @@ RUN bundle install
 
 COPY . .
 
-CMD ["ruby", "./action/update-pohots.rb"]
+CMD ["ruby", "./action/update-photos.rb"]
 #CMD ["ls"]
