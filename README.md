@@ -33,6 +33,8 @@
   
 ### [@m0nica](https://github.com/m0nica)
   * ReactLadies ([community](https://www.reactladies.com/))
+  * "Personal Growth From Open-Source And Meetups With Monica Powell" ([blog](https://egghead.io/podcasts/personal-growth-from-open-source-and-meetups-with-monica-powell))
+  * "Delete Your Code and Other Reflections from Coderetreat Day" ([podcast](https://www.aboutmonica.com/blog/code-retreat-reflection))
   
 ### [@Prophen](https://github.com/Prophen)
   * PopSchools ([project](https://github.com/PopSchools))
