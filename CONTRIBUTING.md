@@ -6,6 +6,8 @@ Criteria to add a developer:
 * Content is about the experience of being the developer.
 * The author of the content is describing their own experience.
 * Projects linked must be open sourced and/or non-profit.
+* Must have [GitHub Sponsors](https://github.com/sponsors/) enabled.
+
 
 ## Adding to the README.md
 This list is sorted alphabetically by GitHub username. Sub-bullets are also sorted alphabetically by title. The format is as follows:
