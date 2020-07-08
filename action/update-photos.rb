@@ -5,7 +5,6 @@
 require "httparty"
 require "json"
 
-def member_list
 #!/usr/bin/env ruby
 #/ Usage: ./action/update-photos 
 #/ Update the local README photo wall to reflect the current developers listed in
