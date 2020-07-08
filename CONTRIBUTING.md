@@ -15,4 +15,4 @@ This list is sorted alphabetically by GitHub username. Sub-bullets are also sort
 
 Maximum 5 links per developer are permitted. If a developer already has the maximum number of links listed, your pull request should remove an existing link in order to make room for your contribution, with an explanation as to why you think it adds more value.
 
-*Photo table of the developers should not be updated directly and instead handled through automation.  
+*Photo table of the developers should not be updated directly and instead handled through automation.*
