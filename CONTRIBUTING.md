@@ -20,4 +20,4 @@ Maximum 5 links per developer are permitted. If a developer already has the maxi
 ## Adding to the photos
 The photo wall of the developers should not be updated directly and instead handled through automation.
 
-Please add the developer login to this file for the photo wall update. 
+Please add the developer login to this [action/update-photos.rb](https://github.com/bdougie/awesome-black-developers/blob/main/action/update-photos.rb#L6-L7) file for the photo wall update. 
