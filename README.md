@@ -22,7 +22,11 @@
 ### [@dayhaysoos](https://github.com/dayhaysoos)
   * use-shopping-cart ([project](https://github.com/dayhaysoos/use-shopping-cart))
   * "How to ask for help without feeling like a burden." ([blog](https://dayhaysoos.com/how-to-ask-for-help/))
-
+  
+### [@ifiokjr](https://github.com/ifiokjr)
+  * remirror ([project](https://github.com/remirror/remirror))
+  * GitHub Sponsor page ([sponsor]](https://github.com/sponsors/ifiokjr))
+  
 ### [@kjaymiller](https://github.com/kjaymiller)
   * Productivity in Tech ([project](https://productivityintech.com/))
   * "PIT Reflection: GitHub Sponsors, Talking to Mentors, and Writing Docs"([podcast](https://productivityintech.transistor.fm/s2020/10))
