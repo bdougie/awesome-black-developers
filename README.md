@@ -38,6 +38,7 @@
   
 ### [@Prophen](https://github.com/Prophen)
   * PopSchools ([project](https://github.com/PopSchools))
+  * "How I discovered my voice" ([blog](https://medium.com/datadriveninvestor/0-how-i-discovered-my-voice-ea278b69839c))
 
 ## 💅🏾 Contributing
 
