@@ -3,9 +3,6 @@
 #/ Update the local README photo wall to reflect the current developers listed in
 # bdougie/awesome-black-developers.
 
-require "httparty"
-require "json"
-
 developers = %w(
   aprilspeight
   bdougie
