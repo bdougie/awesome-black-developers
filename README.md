@@ -1,21 +1,31 @@
 # Awesome Black Developers [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 > Talks, blog posts, and interviews amplifying the voices of Black developers on GitHub because #BlackLivesMatter
 
-[@aprilspeight](#aprilspeight) | [@bdougie](#bdougie) | [@dayhaysoos](#dayhaysoos) | [@kjaymiller](#kjaymiller) 
---- | --- | --- | ---
-![@aprilspeight](https://avatars.githubusercontent.com/aprilspeight?s=100&v=2) | ![@bdougie](https://avatars.githubusercontent.com/bdougie?s=100&v=2) | ![@dayhaysoos](https://avatars.githubusercontent.com/dayhaysoos?s=100&v=1) | ![@kjaymiller](https://avatars.githubusercontent.com/kjaymiller?s=100&v=1)
+[@aprilspeight](#aprilspeight) | [@bdougie](#bdougie) | [@dayhaysoos](#dayhaysoos) | [#ifiokjr](/ifiokjr) | [@kjaymiller](#kjaymiller) | [@m0nica](#m0nica) | [@Prophen](#Prophen) 
+--- | --- | --- | --- | --- | --- | ---
+![@aprilspeight](https://avatars.githubusercontent.com/aprilspeight?s=100&v=2) |![@bdougie](https://avatars.githubusercontent.com/bdougie?s=100&v=2) |![@dayhaysoos](https://avatars.githubusercontent.com/dayhaysoos?s=100&v=1) | ![@ifiokjr](https://avatars.githubusercontent.com/ifiokjr?s=100&v=2) |![@kjaymiller](https://avatars.githubusercontent.com/kjaymiller?s=100&v=1) | ![@m0nica](https://avatars.githubusercontent.com/m0nica?s=100&v=1) |![@Prophen](https://avatars.githubusercontent.com/Prophen?s=100&v=1) |
 
-* [@aprilspeight](/aprilspeight), [Vogue and Code](https://www.vogueandcode.com/)
-  * [My Career Transition Story](https://www.youtube.com/watch?v=kHrm-O3Z4dA&feature=emb_title)
+### [@aprilspeight](/aprilspeight)
+  * Vogue and Code ([project](https://www.vogueandcode.com/))
+  * My Career Transition Story ([video](https://www.youtube.com/watch?v=kHrm-O3Z4dA&feature=emb_title))
 
-* [@bdougie](/bdougie/), [Open Sauced](https://github.com/open-sauced/open-sauced)
-  * "Your next open source contribution" ([video](https://www.youtube.com/watch?v=UzI2Wdl3arE))
+### [@bdougie](/bdougie)
+ * Open Sauced ([project](https://github.com/open-sauced/open-sauced))
+ * "Your next open source contribution" ([video](https://www.youtube.com/watch?v=UzI2Wdl3arE))
   
-* [@dayhaysoos](/dayhaysoos), [use-shopping-cart](https://github.com/dayhaysoos/use-shopping-cart)
-  * [How to ask for help without feeling like a burden.](https://dayhaysoos.com/how-to-ask-for-help/)
+### [@dayhaysoos](/dayhaysoos)
+  * use-shopping-cart ([project](https://github.com/dayhaysoos/use-shopping-cart))
+  * "How to ask for help without feeling like a burden." ([blog](https://dayhaysoos.com/how-to-ask-for-help/))
 
-* [@kjaymiller](/kjaymiller), [Productivity in Tech](https://productivityintech.com/)
-  * [PIT Reflection: Github Sponsors, Talking to Mentors, and Writing Docs](https://productivityintech.transistor.fm/s2020/10)
+### [@kjaymiller](/kjaymiller)
+  * Productivity in Tech ([project](https://productivityintech.com/))
+  * "PIT Reflection: Github Sponsors, Talking to Mentors, and Writing Docs"([podcast](https://productivityintech.transistor.fm/s2020/10))
+  
+### [@m0nica](/m0nica)
+  * ReactLadies [community](https://www.reactladies.com/)
+  
+### [@Prophen](/Prophen)
+  * PopSchools ([project](https://github.com/PopSchools))
 
 ## 💅🏾 Contributing
 
