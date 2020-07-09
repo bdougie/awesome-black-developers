@@ -1,0 +1,27 @@
+name: Readme
+
+on:
+  issues:
+    types: [opened, edited]
+
+jobs:
+  readme:
+    if: startsWith(${{ github.event.issue.title }}, "Add handle")
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+      with:
+        ref: ${{ github.head_ref }}
+    - run:  'echo "${{ github.event.issue.body }}" > temp.txt'
+    - name: create-readme
+      uses: ./action
+    - run: rm temp.txt
+    - name: Create Pull Request
+      uses: peter-evans/create-pull-request@v2
+      with:
+        commit-message: ${{ github.event.issue.title }}
+        title: ${{ github.event.issue.title }}
+        body: |
+          Closes #${{ github.event.issue.number }}
+        labels: automated pr
+        branch: add-new-developer-${{ github.event.issue.number }}
