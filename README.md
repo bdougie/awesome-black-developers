@@ -2,9 +2,9 @@
 
 > Talks, blog posts, and interviews amplifying the voices of Black developers on GitHub because #BlackLivesMatter
 
-[@aprilspeight](aprilspeight) | [@bdougie](bdougie) | [@dayhaysoos](dayhaysoos) | [@ifiokjr](ifiokjr) | [@m0nica](m0nica) | [@Prophen](Prophen) | [@kjaymiller](kjaymiller)
---- | --- | --- | --- | --- | --- | ---
-![@aprilspeight](https://avatars.githubusercontent.com/aprilspeight?s=100&v=1) | ![@bdougie](https://avatars.githubusercontent.com/bdougie?s=100&v=1) | ![@dayhaysoos](https://avatars.githubusercontent.com/dayhaysoos?s=100&v=1) | ![@ifiokjr](https://avatars.githubusercontent.com/ifiokjr?s=100&v=1) | ![@m0nica](https://avatars.githubusercontent.com/m0nica?s=100&v=1) | ![@Prophen](https://avatars.githubusercontent.com/Prophen?s=100&v=1) | ![@kjaymiller](https://avatars.githubusercontent.com/kjaymiller?s=100&v=1)
+[@aprilspeight](#aprilspeight) | [@bdougie](#bdougie) | [@dayhaysoos](#dayhaysoos) | [@ifiokjr](#ifiokjr) | [@m0nica](#m0nica) | [@Prophen](#Prophen) | [@kjaymiller](#kjaymiller) | [@At the moment I am using an action to print the markdown for developers into the logs and copy and pasting that into markdown.](#At the moment I am using an action to print the markdown for developers into the logs and copy and pasting that into markdown.)
+--- | --- | --- | --- | --- | --- | --- | ---
+![@aprilspeight](https://avatars.githubusercontent.com/aprilspeight?s=100&v=1) | ![@bdougie](https://avatars.githubusercontent.com/bdougie?s=100&v=1) | ![@dayhaysoos](https://avatars.githubusercontent.com/dayhaysoos?s=100&v=1) | ![@ifiokjr](https://avatars.githubusercontent.com/ifiokjr?s=100&v=1) | ![@m0nica](https://avatars.githubusercontent.com/m0nica?s=100&v=1) | ![@Prophen](https://avatars.githubusercontent.com/Prophen?s=100&v=1) | ![@kjaymiller](https://avatars.githubusercontent.com/kjaymiller?s=100&v=1) | ![@At the moment I am using an action to print the markdown for developers into the logs and copy and pasting that into markdown.](https://avatars.githubusercontent.com/At the moment I am using an action to print the markdown for developers into the logs and copy and pasting that into markdown.?s=100&v=1)
 
 
 ### [@aprilspeight](https://github.com/aprilspeight)
@@ -35,6 +35,12 @@
 ### [@kjaymiller](https://github.com/kjaymiller)
  * Productivity in Tech ([project](https://productivityintech.com/))
  * PIT Reflection: GitHub Sponsors, Talking to Mentors, and Writing Docs ([podcast](https://productivityintech.transistor.fm/s2020/10))
+
+### [@At the moment I am using an action to print the markdown for developers into the logs and copy and pasting that into markdown.](https://github.com/At the moment I am using an action to print the markdown for developers into the logs and copy and pasting that into markdown.)
+ * ## Make it better
+ * - [x] Move the array of developers out of [update-photos.rb](https://github.com/bdougie/awesome-black-developers/blob/303765cb04aab1cdac58d9951a6ef97b08ee3b2b/action/update-photos.rb#L6-L14) and into its own file
+ * - [x] Have the action print the new photos to a file or directly in the readme through automation.
+ * - [x] Update the CONTRIBUTING.md to reflect the above changes.
 
 ## 💅🏾 Contributing
 
