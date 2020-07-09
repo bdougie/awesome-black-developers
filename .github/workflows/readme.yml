@@ -5,7 +5,7 @@ on:
     types: [opened, edited]
 
 jobs:
-  greeting:
+  readme:
     if: startsWith(${{ github.event.issue.title }}, "Add handle")
     runs-on: ubuntu-latest
     steps:
