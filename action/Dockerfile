@@ -6,5 +6,5 @@ WORKDIR /usr/src/app
 
 COPY . .
 
-CMD ["ruby", "./action/update-photos.rb"]
+CMD ["ruby", "./action/create-readme.rb"]
 #CMD ["ls"]
