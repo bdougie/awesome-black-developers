@@ -1,12 +1,12 @@
 ---
-name: Add an awesome black developer
-about: This issues is conntected to a GitHub Action will automate the process of adding a new developer.
+name: Add handle
+about: Add handle
 title: Add handle [handle]
 labels: ''
-assignees: 'bdougie'
+assignees: ''
 
 ---
 
-### [handle]
-  * link 1
-  * link 2
+### handle
+  * "Link 1 Description" ([video/slides/post/interview/project/community](URL))
+  * "Link 2 Description" ([video/slides/post/interview/project/community](URL))
