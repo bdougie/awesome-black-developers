@@ -8,5 +8,5 @@ assignees: ''
 ---
 
 ### handle
-  * link 1
-  * link 2
+  * "Link 1 Description" ([video/slides/post/interview/project/community](URL))
+  * "Link 2 Description" ([video/slides/post/interview/project/community](URL))
