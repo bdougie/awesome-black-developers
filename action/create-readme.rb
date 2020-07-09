@@ -87,7 +87,7 @@ def build_developer_list(users)
 end
 
 def handle_link(login)
-  "[@#{login}](https://github.com/#{login})"
+  "[@#{login}](#{login})"
 end
 
 def photo_link(login)
@@ -100,4 +100,3 @@ def update_readme(save: false)
 end
 
 update_readme(save: true)
-
