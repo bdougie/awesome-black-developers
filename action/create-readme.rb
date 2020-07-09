@@ -87,7 +87,7 @@ def build_developer_list(users)
 end
 
 def handle_link(login)
-  "[@#{login}](#{login})"
+  "[@#{login}](##{login})"
 end
 
 def photo_link(login)
