@@ -6,7 +6,6 @@ on:
 
 jobs:
   readme:
-    if: startsWith(${{ github.event.issue.title }}, "Add handle")
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v2
@@ -14,9 +13,11 @@ jobs:
         ref: ${{ github.head_ref }}
     - run:  'echo "${{ github.event.issue.body }}" > temp.txt'
     - name: create-readme
+      if: startsWith("Add handle", ${{ github.event.issue.title }})
       uses: ./action
     - run: rm temp.txt
     - name: Create Pull Request
+      if: startsWith("Add handle", ${{ github.event.issue.title }})
       uses: peter-evans/create-pull-request@v2
       with:
         commit-message: ${{ github.event.issue.title }}
