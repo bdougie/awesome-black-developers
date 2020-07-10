@@ -35,6 +35,11 @@
 ### [@kjaymiller](https://github.com/kjaymiller)
  * Productivity in Tech ([project](https://productivityintech.com/))
  * PIT Reflection: GitHub Sponsors, Talking to Mentors, and Writing Docs ([podcast](https://productivityintech.transistor.fm/s2020/10))
+ 
+ ### [@developerayo](https://github.com/developerayo)
+ * DevRelChat ([podcast](https://devrelchat.dev/))
+ * unStack Africa ([community](http://unstack.africa/))
+ * Lazy Loading images progressively and bundle analyzing in Webpack ([video](https://youtu.be/_Enq6G2gyks))
 
 ## 💅🏾 Contributing
 
