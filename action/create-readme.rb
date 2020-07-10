@@ -63,7 +63,7 @@ end
 def build_photo_grid(users)
   lines = []
 
-  users.map{|k, v| k}.each_slice(8) do |slice|
+  users.map{|k, v| k}.each_slice(6) do |slice|
     header = slice.map { |e| handle_link(e) }.join(" | ").strip
     delimiter = slice.map { |e| "---" }.join(" | ")
     row = slice.map { |e| photo_link(e) }.join(" | ").strip
