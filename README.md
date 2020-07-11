@@ -2,9 +2,13 @@
 
 > Talks, blog posts, and interviews amplifying the voices of Black developers on GitHub because #BlackLivesMatter
 
-[@aprilspeight](#aprilspeight) | [@bdougie](#bdougie) | [@dayhaysoos](#dayhaysoos) | [@ifiokjr](#ifiokjr) | [@m0nica](#m0nica) | [@Prophen](#Prophen) | [@kjaymiller](#kjaymiller) | [@developerayo](#developerayo)
---- | --- | --- | --- | --- | --- | --- | ---
-![@aprilspeight](https://avatars.githubusercontent.com/aprilspeight?s=100&v=1) | ![@bdougie](https://avatars.githubusercontent.com/bdougie?s=100&v=1) | ![@dayhaysoos](https://avatars.githubusercontent.com/dayhaysoos?s=100&v=1) | ![@ifiokjr](https://avatars.githubusercontent.com/ifiokjr?s=100&v=1) | ![@m0nica](https://avatars.githubusercontent.com/m0nica?s=100&v=1) | ![@Prophen](https://avatars.githubusercontent.com/Prophen?s=100&v=1) | ![@kjaymiller](https://avatars.githubusercontent.com/kjaymiller?s=100&v=1) | ![@developerayo](https://avatars.githubusercontent.com/developerayo?s=100&v=1)
+[@aprilspeight](#aprilspeight) | [@bdougie](#bdougie) | [@dayhaysoos](#dayhaysoos) | [@ifiokjr](#ifiokjr) | [@m0nica](#m0nica) | [@Prophen](#Prophen)
+--- | --- | --- | --- | --- | ---
+![@aprilspeight](https://avatars.githubusercontent.com/aprilspeight?s=100&v=1) | ![@bdougie](https://avatars.githubusercontent.com/bdougie?s=100&v=1) | ![@dayhaysoos](https://avatars.githubusercontent.com/dayhaysoos?s=100&v=1) | ![@ifiokjr](https://avatars.githubusercontent.com/ifiokjr?s=100&v=1) | ![@m0nica](https://avatars.githubusercontent.com/m0nica?s=100&v=1) | ![@Prophen](https://avatars.githubusercontent.com/Prophen?s=100&v=1)
+
+[@kjaymiller](#kjaymiller) | [@developerayo](#developerayo) | [@bcdbuddy](#bcdbuddy)
+--- | --- | ---
+![@kjaymiller](https://avatars.githubusercontent.com/kjaymiller?s=100&v=1) | ![@developerayo](https://avatars.githubusercontent.com/developerayo?s=100&v=1) | ![@bcdbuddy](https://avatars.githubusercontent.com/bcdbuddy?s=100&v=1)
 
 
 ### [@aprilspeight](https://github.com/aprilspeight)
@@ -40,6 +44,10 @@
  * DevRelChat ([podcast](https://devrelchat.dev/))
  * unStack Africa ([community](http://unstack.africa/))
  * Lazy Loading images progressively and bundle analyzing in Webpack ([video](https://youtu.be/_Enq6G2gyks))
+
+### [@bcdbuddy](https://github.com/bcdbuddy)
+ * Website ([http://babacar-cisse-dia.com/](http://babacar-cisse-dia.com/))
+ * Dev.to ([profile](https://dev.to/bcdbuddy))
 
 ## 💅🏾 Contributing
 
