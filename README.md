@@ -6,9 +6,9 @@
 --- | --- | --- | --- | --- | ---
 ![@aprilspeight](https://avatars.githubusercontent.com/aprilspeight?s=100&v=1) | ![@bdougie](https://avatars.githubusercontent.com/bdougie?s=100&v=1) | ![@dayhaysoos](https://avatars.githubusercontent.com/dayhaysoos?s=100&v=1) | ![@ifiokjr](https://avatars.githubusercontent.com/ifiokjr?s=100&v=1) | ![@m0nica](https://avatars.githubusercontent.com/m0nica?s=100&v=1) | ![@Prophen](https://avatars.githubusercontent.com/Prophen?s=100&v=1)
 
-[@kjaymiller](#kjaymiller) | [@developerayo](#developerayo) | [@swannodette](#swannodette)
---- | --- | ---
-![@kjaymiller](https://avatars.githubusercontent.com/kjaymiller?s=100&v=1) | ![@developerayo](https://avatars.githubusercontent.com/developerayo?s=100&v=1) | ![@swannodette](https://avatars.githubusercontent.com/swannodette?s=100&v=1)
+[@kjaymiller](#kjaymiller) | [@developerayo](#developerayo) | [@swannodette](#swannodette) | [@lipemorais](#lipemorais)
+--- | --- | --- | ---
+![@kjaymiller](https://avatars.githubusercontent.com/kjaymiller?s=100&v=1) | ![@developerayo](https://avatars.githubusercontent.com/developerayo?s=100&v=1) | ![@swannodette](https://avatars.githubusercontent.com/swannodette?s=100&v=1) | ![@lipemorais](https://avatars.githubusercontent.com/lipemorais?s=100&v=1)
 
 
 ### [@aprilspeight](https://github.com/aprilspeight)
@@ -48,6 +48,12 @@
 ### [@swannodette](https://github.com/swannodette)
  * ClojureScript ([project](https://github.com/clojure/clojurescript))
  * A Tool For Thought ([post](http://swannodette.github.io/2016/06/03/tools-for-thought/))
+
+### [@lipemorais](https://github.com/lipemorais)
+ * AfroPython ([community](http://afropython.org/))
+ * The world is more than we can see with our lenses ([blog](https://felipedemorais.com.br/o-mundo-%C3%A9-mais-do-que-podemos-ver-com-nossas-lentes/))
+ * AfroPython: Empowering black people using Python in Brazi ([video](https://www.youtube.com/watch?v=o7ouI7lwQ8I))
+ * How to receive feedback ([blog](https://medium.com/@felipedemoraes/como-receber-feedbacks-s%C3%A9rie-sobre-feedback-3ba0007df964))
 
 ## 💅🏾 Contributing
 
