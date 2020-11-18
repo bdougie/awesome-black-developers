@@ -20,9 +20,7 @@ jobs:
     - run: rm temp.txt
     - name: Create Pull Request
       if: ${{ startsWith(github.event.issue.title, 'Add handle') }}
-      uses: peter-evans/create-pull-request@v2
-      env: 
-        ACTIONS_ALLOW_UNSECURE_COMMANDS: 'true'
+      uses: peter-evans/create-pull-request@v3.5.0
       with:
         commit-message: ${{ github.event.issue.title }}
         title: ${{ github.event.issue.title }}
