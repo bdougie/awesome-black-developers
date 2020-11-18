@@ -13,7 +13,7 @@ jobs:
         ref: ${{ github.head_ref }}
     - run: |
         TEXT_COPY="${{ github.event.issue.body }}"
-        echo $TEXT_COPY > temp.txt"
+        echo $TEXT_COPY >> temp.txt"
     - name: create-readme
       if: ${{ startsWith(github.event.issue.title, 'Add handle') }}
       uses: ./action
