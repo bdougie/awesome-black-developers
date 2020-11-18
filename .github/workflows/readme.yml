@@ -11,9 +11,9 @@ jobs:
     - uses: actions/checkout@v2
       with:
         ref: ${{ github.head_ref }}
-    - run: |
-        TEXT_COPY="${{ github.event.issue.body }}"
-        echo $TEXT_COPY >> temp.txt"
+    - run: 'echo "$ISSUE_BODY" > temp.txt'
+      env: 
+        ISSUE_BODY: ${{ github.event.issue.body }}
     - name: create-readme
       if: ${{ startsWith(github.event.issue.title, 'Add handle') }}
       uses: ./action
