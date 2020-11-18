@@ -14,7 +14,6 @@ jobs:
     - run: 'echo "$ISSUE_BODY" > temp.txt'
       env: 
         ISSUE_BODY: ${{ github.event.issue.body }}
-        ACTIONS_ALLOW_UNSECURE_COMMANDS: 'true'
     - name: create-readme
       if: ${{ startsWith(github.event.issue.title, 'Add handle') }}
       uses: ./action
@@ -22,6 +21,8 @@ jobs:
     - name: Create Pull Request
       if: ${{ startsWith(github.event.issue.title, 'Add handle') }}
       uses: peter-evans/create-pull-request@v2
+      env: 
+        ACTIONS_ALLOW_UNSECURE_COMMANDS: 'true'
       with:
         commit-message: ${{ github.event.issue.title }}
         title: ${{ github.event.issue.title }}
