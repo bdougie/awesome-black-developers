@@ -6,9 +6,9 @@
 --- | --- | --- | --- | --- | ---
 ![@aprilspeight](https://avatars.githubusercontent.com/aprilspeight?s=100&v=1) | ![@bdougie](https://avatars.githubusercontent.com/bdougie?s=100&v=1) | ![@dayhaysoos](https://avatars.githubusercontent.com/dayhaysoos?s=100&v=1) | ![@ifiokjr](https://avatars.githubusercontent.com/ifiokjr?s=100&v=1) | ![@m0nica](https://avatars.githubusercontent.com/m0nica?s=100&v=1) | ![@Prophen](https://avatars.githubusercontent.com/Prophen?s=100&v=1)
 
-[@kjaymiller](#kjaymiller) | [@developerayo](#developerayo) | [@swannodette](#swannodette) | [@lipemorais](#lipemorais) | [@brandonroberts](#brandonroberts)
---- | --- | --- | --- | --- |
-![@kjaymiller](https://avatars.githubusercontent.com/kjaymiller?s=100&v=1) | ![@developerayo](https://avatars.githubusercontent.com/developerayo?s=100&v=1) | ![@swannodette](https://avatars.githubusercontent.com/swannodette?s=100&v=1) | ![@lipemorais](https://avatars.githubusercontent.com/lipemorais?s=100&v=1) | ![@brandonroberts](https://avatars.githubusercontent.com/brandonroberts?s=100&v=1)
+[@kjaymiller](#kjaymiller) | [@developerayo](#developerayo) | [@swannodette](#swannodette) | [@lipemorais](#lipemorais) | [@brandonroberts](#brandonroberts) | [@lwgray](#lwgray)
+--- | --- | --- | --- | --- | ---
+![@kjaymiller](https://avatars.githubusercontent.com/kjaymiller?s=100&v=1) | ![@developerayo](https://avatars.githubusercontent.com/developerayo?s=100&v=1) | ![@swannodette](https://avatars.githubusercontent.com/swannodette?s=100&v=1) | ![@lipemorais](https://avatars.githubusercontent.com/lipemorais?s=100&v=1) | ![@brandonroberts](https://avatars.githubusercontent.com/brandonroberts?s=100&v=1) | ![@lwgray](https://avatars.githubusercontent.com/lwgray?s=100&v=1)
 
 
 ### [@aprilspeight](https://github.com/aprilspeight)
@@ -58,6 +58,9 @@
 ### [@brandonroberts](https://github.com/brandonroberts)
  * ngrx/platform maintainer ([project](https://github.com/ngrx/platform))
  * Angular Unfiltered ([podcast](https://www.youtube.com/playlist?list=PL8OUS498tQP0dKRzeo9lVCnxlls3j0slI))
+
+### [@lwgray](https://github.com/lwgray)
+ * "Yellowbrick: Machine Learning Visualization ([project](https://github.com/DistrictDataLabs/yellowbrick/))
 
 ## 💅🏾 Contributing
 
