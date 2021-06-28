@@ -10,9 +10,9 @@
 --- | --- | --- | --- | --- | ---
 ![@kjaymiller](https://avatars.githubusercontent.com/kjaymiller?s=100&v=1) | ![@developerayo](https://avatars.githubusercontent.com/developerayo?s=100&v=1) | ![@swannodette](https://avatars.githubusercontent.com/swannodette?s=100&v=1) | ![@lipemorais](https://avatars.githubusercontent.com/lipemorais?s=100&v=1) | ![@brandonroberts](https://avatars.githubusercontent.com/brandonroberts?s=100&v=1) | ![@lwgray](https://avatars.githubusercontent.com/lwgray?s=100&v=1)
 
-[@torch2424](#torch2424)
----
-![@torch2424](https://avatars.githubusercontent.com/torch2424?s=100&v=1)
+[@torch2424](#torch2424) | [@imolorhe](#imolorhe)
+--- | ---
+![@torch2424](https://avatars.githubusercontent.com/torch2424?s=100&v=1) | ![@imolorhe](https://avatars.githubusercontent.com/imolorhe?s=100&v=1)
 
 
 ### [@aprilspeight](https://github.com/aprilspeight)
@@ -69,6 +69,9 @@
 ### [@torch2424](https://github.com/torch2424)
  * "wasmboy" ([project](https://github.com/torch2424/wasmboy))
  * "assemblyscript" ([project](https://github.com/AssemblyScript/assemblyscript))
+
+### [@imolorhe](https://github.com/imolorhe)
+ * ✨⚡️ A beautiful feature-rich GraphQL Client for all platforms. ([project](https://github.com/altair-graphql/altair))
 
 ## 💅🏾 Contributing
 
