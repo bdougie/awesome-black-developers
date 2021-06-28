@@ -43,3 +43,6 @@ torch2424:
 - '"assemblyscript" ([project](https://github.com/AssemblyScript/assemblyscript))'
 imolorhe:
 - "✨⚡️ A beautiful feature-rich GraphQL Client for all platforms. ([project](https://github.com/altair-graphql/altair))"
+ThePhD:
+- '"Transcoding Support in C" ([post](https://soasis.org/posts/planted-seeds-unicode-c-c++-2021/))'
+- sol2 ([project](https://github.com/ThePhD/sol2))
