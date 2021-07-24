@@ -44,5 +44,7 @@ torch2424:
 imolorhe:
 - "✨⚡️ A beautiful feature-rich GraphQL Client for all platforms. ([project](https://github.com/altair-graphql/altair))"
 ThePhD:
-- '"Transcoding Support in C" ([post](https://soasis.org/posts/planted-seeds-unicode-c-c++-2021/))'
+- '"Any Encoding, Ever - ztd.text and Unicode in C++" ([post](https://thephd.dev/any-encoding-ever-ztd-text-unicode-cpp))'
+- '"The Community...?" ([video](https://www.youtube.com/watch?v=vaLKm9FE8oo))'
 - sol2 ([project](https://github.com/ThePhD/sol2))
+- ztd.text ([project](https://github.com/soasis/text))
